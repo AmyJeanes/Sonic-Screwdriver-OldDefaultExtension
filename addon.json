@@ -1,0 +1,10 @@
+{
+	"title"		:	"Sonic Screwdriver Old Default Extension",
+	"type"		:	"tool",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.git*"
+	]
+}
