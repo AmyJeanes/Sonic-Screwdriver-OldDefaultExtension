@@ -5,7 +5,7 @@ A Sonic Screwdriver extension containing the old default sonics that were origin
 Requirements
 =
 This addon requires the following:
-- [Sonic Screwdriver](https://github.com/MattJeanes/Sonic-Screwdriver)
+- [Sonic Screwdriver](https://github.com/AmyJeanes/Sonic-Screwdriver)
 
 Without these the addon will not function correctly and you may experience errors.
 
